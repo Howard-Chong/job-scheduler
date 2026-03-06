@@ -1,9 +1,4 @@
-spring:
-  security:
-    user:
-      name: admin
-      password: admin  
-      
+spring:    
   application:
     name: job-scheduler
 
